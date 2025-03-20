@@ -1,2 +1,1 @@
-# CloudFunctionDemo
-Cloud Function Demo
+# Cloud Function Demo
